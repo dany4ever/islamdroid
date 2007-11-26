@@ -7,12 +7,15 @@ _IslamDroid is a project that targets the android OS developed by Google. The Ob
 
 = Details =
 
-The project is broken down to a number of smaller projects such as: 
-|| *Project Name* || *Description* ||
-|| Prayer Project || This project objective is to develop a prayer application that can be used - but not limited - to: 
-  * Generate the prayer times according to the geographical x,y,z
-  * Generate the prayer times according to the city/location database
+==Prayer Application==
 
-  * Automatically manage the prayer times within the calendar and add/remove the prayer appointments 
-  * Alert the user of the prayer time with a designated voice ( e.g. Azan voice )
-  * Mute the mobile during the prayer time ||
+The project is broken down to a number of smaller projects such as: 
+
+===Prayer Project===
+This project objective is to develop a prayer application that can be used - but not limited - to:
+  
+  * Generate the prayer times according to the geographical x,y,z.
+  * Generate the prayer times according to the city/location database.
+  * Automatically manage the prayer times within the calendar and add/remove the prayer appointments. 
+  * Alert the user of the prayer time with a designated voice ( e.g. Azan voice ).
+  * Mute the mobile during the prayer time.
