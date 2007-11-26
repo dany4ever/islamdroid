@@ -5,6 +5,7 @@
 _IslamDroid is a project that targets the android OS developed by Google. The Objective of the project is to provide an extensive tools/applications base for Islamic applications that can be freely installed and used on android. The target audience for these applications is the Muslim group around the globe._ 
 
 
+
 = Details =
 
 ==Prayer Application==
