@@ -20,3 +20,4 @@ This project objective is to develop a prayer application that can be used - but
   * Automatically manage the prayer times within the calendar and add/remove the prayer appointments. 
   * Alert the user of the prayer time with a designated voice ( e.g. Azan voice ).
   * Mute the mobile during the prayer time.
+  * Calculate the direction of the qibla. 
