@@ -31,4 +31,5 @@ _Note: There is no specific format - feel free to add whatever you think is rela
   * 3.2 The Qibla direction representation shall be in Angles from the real north. 
 
 ==_4. Mosques_==
-  
+  * 4.1 The application shall also be able to locate the nearest mosque from a given location(could be from gps). 
+  * 4.2 The application shall also be able to give the iqama times for each mosque returned.
