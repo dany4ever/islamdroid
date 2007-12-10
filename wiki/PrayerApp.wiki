@@ -33,3 +33,6 @@ _Note: There is no specific format - feel free to add whatever you think is rela
 ==_4. Mosques_==
   * 4.1 The application shall also be able to locate the nearest mosque from a given location(could be from gps). 
   * 4.2 The application shall also be able to give the iqama times for each mosque returned.
+
+==_10. Non-Functional_==
+  * 10.1 [_Internationalization_] The GUI developed shall use strings that are not embedded in the code, where the language of the user identifies the alternative string set like Ar/En/Fr etc. 
