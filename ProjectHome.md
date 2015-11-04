@@ -1,0 +1,1 @@
+This project intends to build public Islamic applications that can help Muslims practice their religion at ease.
